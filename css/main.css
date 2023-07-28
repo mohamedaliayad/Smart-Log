@@ -1,0 +1,27 @@
+a{
+    text-decoration: none;
+
+}
+
+body{
+    background-color: #24353F;
+}
+#log{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+.form-control {
+    background-color: #24353F;
+}
+::placeholder {
+
+
+color: #B6B6B6!important;
+
+
+  }
+  a:hover{
+  border-bottom: solid;
+  border-width: 2px;
+  border-color: #f3f5f7 !important;
+  }
